@@ -1,0 +1,211 @@
+body,p,dl,dd,ul,ol,li,div,h1,h2,h3,h4,h5,h6,form,input,table,tr,td,span,img{
+		margin:0;
+		padding:0;
+		}
+	a{
+		text-decoration: none;
+		color: #111;
+		}
+	ul,li,input,select,option{
+		list-style: none;
+		box-sizing: border-box;
+	}
+	input{
+		border-color:white ;
+		border-style: none;
+	}
+	.heardon{
+		display: block;
+		width: 600px;
+		/*height: 300px;*/
+		margin:  20px auto;
+		background: #ccc;
+	}
+	.heard{
+		display: block;
+		height: 40px;
+		width: 600px;
+		background: #333;
+	}
+	.heard span{
+		text-align: center;
+		line-height: 40px;
+		width: 100px;
+		height: 40px;
+		background: ;
+		font-size: 20px;
+		color: #EEEEEE;
+		margin-left: 15px;
+	}
+	.heard input{
+		width: 320px;
+		height: 30px;
+		border-radius: 4px;
+		outline: 0;
+		float: right;
+		margin:5px 20px;
+
+		padding-left: 15px;
+	}
+	
+	
+	
+	
+	
+	.text{
+		display: block;
+		height: 60px;
+		width: 600px;
+	
+	}
+	.text span:first-child{
+		width: 100px;
+		display: block;
+		float: left;
+		font-size: 20px;
+		color: #111111;
+		padding-left: 15px;
+		line-height: 60px;
+		font-weight: 600;
+	}
+	#tou{
+		background: #FFFFFF;
+		border-radius: 50%;
+		width: 20px;
+		height: 20px;
+		text-align: center;
+		line-height: 20px;
+		float: right;
+		margin-right:20px ;
+		
+		margin-top:20px ;
+	}
+	
+	.font{
+		display: block;
+		height: 60px;
+		width: 600px;
+	}
+	.font span:first-child{
+		width: 100px;
+		display: block;
+		float: left;
+		font-size: 20px;
+		color: #111111;
+		padding-left: 15px;
+		line-height: 60px;
+		font-weight: 600;
+	}
+	#end{
+		background: #FFFFFF;
+		border-radius: 50%;
+		width: 20px;
+		height: 20px;
+		text-align: center;
+		line-height: 20px;
+		float: right;
+		margin-right:20px ;
+		margin-top:20px ;
+	}
+	
+	/*----------------------*/
+	/*#teText{
+
+		display: block;
+		height: 30px;
+		width: 560px;
+		margin: 0 auto;
+		background: white;
+		border-top-left-radius:4px ;
+		border-bottom-left-radius:4px ;
+	}
+	#teText span{
+
+		margin-right: 15px;
+		display: block;
+		height: 30px;
+		width: 5px;
+		border-top-left-radius:4px ;
+		border-bottom-left-radius:4px ;
+		background:cadetblue;
+		float: left;
+	}
+	#check{
+		width: 15px;
+		height: 15px;
+		background-color: white;	
+		margin-top: 7.5px;
+		float: left;
+		margin-right: 20px;
+	}
+	#teText p{
+		display: block;
+		height: 30px;
+		width:300px;
+		float: left;
+		line-height: 30px;
+		font-weight: 600;
+		font-size: 16px;
+	}
+	#teText img{
+		margin: 5px;
+		display: block;
+		height: 20px;
+		width: 20px;
+		float: right;
+	}
+	*/
+/*--------------------------*/
+	/*#fonten{
+		display: block;
+		padding-bottom: 30px;
+	}*/
+	/*-----------------------------------*/
+	/*#fontText{
+
+		display: block;
+		height: 30px;
+		width: 560px;
+		margin: 0 auto;
+		background: #EEEEEE;
+		border-top-left-radius:4px;
+		border-bottom-left-radius:4px;
+
+	}
+	#fontText span{
+
+		margin-right: 15px;
+		display: block;
+		height: 30px;
+		width: 5px;
+		border-top-left-radius:4px ;
+		border-bottom-left-radius:4px ;
+		background:darkgrey;
+		float: left;
+	}
+	#check{
+		width: 15px;
+		height: 15px;
+		background-color: #EEEEEE;	
+		margin-top: 7.5px;
+		float: left;
+		margin-right: 20px;
+	}
+	#fontText p{
+		display: block;
+		height: 30px;
+		width:300px;
+		float: left;
+		line-height: 30px;
+		background: #EEEEEE;
+		font-weight: 600;
+		font-size: 16px;
+	}
+	#fontText img{
+		margin: 5px;
+		display: block;
+		height: 20px;
+		width: 20px;
+		float: right;
+	}
+	*/
